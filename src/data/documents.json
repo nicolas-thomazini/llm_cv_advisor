@@ -1,0 +1,1582 @@
+[
+    {
+        "category": "Curriculo",
+        "documents": [
+            {
+                "section": "Experiência Profissional",
+                "question": "Como destacar meu papel em projetos de ciência de dados?",
+                "text": "Descreva as ferramentas utilizadas, problemas resolvidos, resultados alcançados e impacto nos negócios."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como apresentar minhas contribuições como engenheiro de dados?",
+                "text": "Explique como você construiu pipelines de dados, otimizou processos e garantiu a qualidade dos dados."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como demonstrar impacto em projetos anteriores?",
+                "text": "Descreva os resultados mensuráveis que você alcançou, como aumento de performance, redução de custos ou crescimento de receita, sempre que possível com dados concretos."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como falar sobre liderança técnica mesmo sem cargo formal de gestor?",
+                "text": "Explique situações em que você orientou colegas, tomou decisões técnicas importantes ou liderou iniciativas dentro do time."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como destacar experiências com tecnologias específicas?",
+                "text": "Mencione tecnologias usadas em cada projeto e como elas contribuíram para resolver problemas ou melhorar processos."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como apresentar experiências curtas sem parecer instável?",
+                "text": "Foque no que você aprendeu, nas entregas realizadas e no valor que agregou no período em que esteve na posição."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como mostrar que você evoluiu profissionalmente ao longo do tempo?",
+                "text": "Mostre a progressão das suas responsabilidades, a complexidade dos projetos e o crescimento de impacto em cada nova experiência."
+            },
+            {
+                "section": "Machine Learning",
+                "question": "Como mostrar experiência em engenharia de machine learning?",
+                "text": "Inclua detalhes sobre modelos desenvolvidos, métricas de desempenho e deploy em produção."
+            },
+            {
+                "section": "Machine Learning",
+                "question": "Como destacar projetos de machine learning no currículo?",
+                "text": "Descreva o problema resolvido, o tipo de modelo utilizado, os dados trabalhados e os resultados obtidos com o projeto."
+            },
+            {
+                "section": "Machine Learning",
+                "question": "Como apresentar experiência com MLOps?",
+                "text": "Mencione ferramentas utilizadas para automação, versionamento de modelos, CI/CD, monitoramento e manutenção de modelos em produção."
+            },
+            {
+                "section": "Machine Learning",
+                "question": "Como valorizar experiências com dados desbalanceados ou escassos?",
+                "text": "Explique as abordagens adotadas para lidar com esses desafios, como técnicas de oversampling, undersampling, data augmentation ou modelos robustos."
+            },
+            {
+                "section": "Machine Learning",
+                "question": "Como descrever participação em times de ciência de dados ou IA?",
+                "text": "Detalhe seu papel no time, colaboração com engenheiros e analistas, e como suas contribuições impactaram as entregas de machine learning."
+            },
+            {
+                "section": "Deep Learning",
+                "question": "Como incluir projetos de deep learning no currículo?",
+                "text": "Mencione arquiteturas utilizadas (CNNs, RNNs, Transformers) e aplicações (visão computacional, NLP)."
+            },
+            {
+                "section": "Deep Learning",
+                "question": "Como destacar projetos de deep learning disponíveis no GitHub?",
+                "text": "Inclua links diretos no currículo, descreva brevemente o objetivo do projeto, os datasets utilizados, e os resultados alcançados, com ênfase em boas práticas de código e reprodutibilidade."
+            },
+            {
+                "section": "Deep Learning",
+                "question": "Como evidenciar domínio técnico em modelos de deep learning?",
+                "text": "Descreva sua familiaridade com frameworks como TensorFlow ou PyTorch, customização de arquiteturas, tuning de hiperparâmetros e análise de overfitting."
+            },
+            {
+                "section": "Deep Learning",
+                "question": "Como mostrar aplicação de deep learning em problemas do mundo real?",
+                "text": "Apresente exemplos de como os modelos resolveram desafios práticos, como classificação de imagens médicas, reconhecimento de fala ou análise de sentimentos."
+            },
+            {
+                "section": "Deep Learning",
+                "question": "Como relatar experiências colaborativas em projetos de deep learning?",
+                "text": "Fale sobre o trabalho em equipe em hackathons, laboratórios de pesquisa ou contribuições open source, destacando seu papel e impacto no desenvolvimento de soluções com redes neurais."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como destacar experiência com LLMs (Large Language Models)?",
+                "text": "Descreva fine-tuning, uso de embeddings, aplicações em chatbots ou geração de texto, e ferramentas como LangChain."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como apresentar projetos pessoais com LLMs no currículo?",
+                "text": "Inclua projetos publicados no GitHub ou em blogs técnicos, destacando a arquitetura usada (ex: GPT, LLaMA), objetivos do projeto e resultados alcançados."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como mostrar experiência em integração de LLMs em produtos?",
+                "text": "Explique como você integrou modelos de linguagem em aplicações web, APIs ou sistemas internos, e o impacto gerado no produto final."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como descrever habilidades em prompt engineering?",
+                "text": "Destaque como você projetou prompts eficazes para alcançar objetivos específicos, como sumarização, extração de dados ou geração de código, mencionando testes A/B ou validação de qualidade."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como incluir experiência com avaliação de modelos LLMs?",
+                "text": "Descreva como você mediu desempenho com métricas como BLEU, ROUGE, perplexidade ou avaliações humanas, e como isso influenciou melhorias no modelo ou nos prompts."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como demonstrar conhecimento em ferramentas do ecossistema de LLMs?",
+                "text": "Cite ferramentas como LangChain, Hugging Face Transformers, OpenAI API, Pinecone ou Weaviate, explicando como as utilizou em seus projetos."
+            },
+            {
+                "section": "LLMs",
+                "question": "Como relatar contribuições em projetos colaborativos com LLMs?",
+                "text": "Fale sobre o seu papel em equipes que trabalharam com LLMs, como divisão de tarefas, decisões de arquitetura ou integrações com pipelines de dados e frontend."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Quais certificações são valorizadas em ciência de dados?",
+                "text": "Certificações da AWS, Google Cloud, Microsoft em dados e IA, além de cursos como Data Science da IBM ou Stanford ML."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Como apresentar cursos online no currículo?",
+                "text": "Liste os cursos relevantes com o nome da instituição, ano de conclusão e principais tópicos abordados, especialmente se forem aplicáveis à vaga desejada."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Cursos gratuitos também têm valor no currículo?",
+                "text": "Sim, especialmente se forem de instituições reconhecidas e cobrirem tópicos técnicos relevantes; destaque projetos ou aplicações práticas realizados durante o curso."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Como priorizar certificações em nuvem no currículo de dados?",
+                "text": "Certificações como AWS Certified Data Analytics, Google Professional Data Engineer ou Azure Data Scientist devem ser destacadas pela relevância prática em ambientes de produção."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "É importante incluir cursos com foco em soft skills?",
+                "text": "Sim, cursos de comunicação, liderança ou gestão de projetos podem complementar o perfil técnico, especialmente para cargos mais seniores ou de liderança técnica."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Como destacar cursos de universidades renomadas como Stanford ou MIT?",
+                "text": "Inclua o nome completo do curso, instituição, ano e, se possível, destaque projetos desenvolvidos ou certificações obtidas ao final."
+            },
+            {
+                "section": "Certificações e Cursos",
+                "question": "Vale a pena incluir cursos que ainda estão em andamento?",
+                "text": "Sim, desde que estejam próximos da conclusão ou sejam relevantes; mencione o status como 'em andamento' e destaque o que já foi aprendido."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Como destacar projetos de análise de dados no currículo?",
+                "text": "Descreva o problema de negócio, os dados analisados, as ferramentas utilizadas (ex: SQL, Python, Power BI) e os insights ou decisões geradas a partir da análise."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Como apresentar habilidades em visualização de dados?",
+                "text": "Mencione dashboards criados, ferramentas como Tableau ou Power BI, e como as visualizações ajudaram stakeholders a tomarem decisões."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Como mostrar domínio de ferramentas de análise no currículo?",
+                "text": "Liste ferramentas que domina (Excel avançado, SQL, pandas, Looker, etc.) e contextualize com exemplos de uso prático em projetos ou empresas."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Como incluir análise exploratória de dados (EDA) em experiências profissionais?",
+                "text": "Explique como você limpou, transformou e explorou dados para gerar hipóteses ou preparar bases para modelos ou relatórios."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Como demonstrar impacto de análises no negócio?",
+                "text": "Relate como sua análise levou à melhoria de processos, aumento de receita, redução de custos ou apoio em decisões estratégicas, sempre que possível com números."
+            },
+            {
+                "section": "Análise de Dados",
+                "question": "Projetos pessoais de análise também devem ser incluídos?",
+                "text": "Sim, principalmente se publicados no GitHub ou em portfólios; destaque os dados utilizados, ferramentas aplicadas e principais conclusões extraídas."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "Como escrever um resumo profissional impactante?",
+                "text": "Seja direto e objetivo; destaque seus principais anos de experiência, área de atuação e competências técnicas mais relevantes para a vaga."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "O que evitar ao escrever um resumo profissional?",
+                "text": "Evite frases genéricas como 'sou proativo' ou 'trabalho bem em equipe' sem contexto; foque em dados concretos e diferenciais técnicos."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "Como adaptar o resumo profissional para diferentes vagas?",
+                "text": "Personalize o resumo com palavras-chave da vaga e ênfase em habilidades que se alinham com os requisitos do cargo desejado."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "Qual o tamanho ideal para um resumo profissional?",
+                "text": "Um parágrafo de 3 a 5 linhas geralmente é suficiente para apresentar seu perfil de forma clara e atrativa ao recrutador."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "Devo incluir objetivos profissionais no resumo?",
+                "text": "Sim, se forem objetivos claros e alinhados com a área de atuação; evite ser vago e prefira mostrar direcionamento de carreira."
+            },
+            {
+                "section": "Resumo Profissional",
+                "question": "Como destacar transições de carreira no resumo?",
+                "text": "Explique brevemente a mudança, focando nas competências transferíveis e na motivação para atuar na nova área."
+            },
+            {
+            "section": "Formação Acadêmica",
+            "question": "Como listar minha formação acadêmica no currículo?",
+            "text": "Inclua o nome do curso, instituição, período (ou previsão de término), e destaque conquistas relevantes como bolsas, intercâmbios ou projetos acadêmicos."
+            },
+            {
+                "section": "Formação Acadêmica",
+                "question": "Devo incluir cursos que não concluí?",
+                "text": "Sim, desde que tenham relação com a vaga; indique claramente que estão 'em andamento' ou 'incompletos', e destaque conhecimentos adquiridos."
+            },
+            {
+                "section": "Formação Acadêmica",
+                "question": "Como apresentar pós-graduação ou MBA no currículo?",
+                "text": "Liste o título do curso, instituição, datas e foco da formação, especialmente se for complementar à sua formação base ou à área de atuação."
+            },
+            {
+                "section": "Formação Acadêmica",
+                "question": "Cursos técnicos devem ser incluídos?",
+                "text": "Sim, principalmente se forem relevantes para a área de atuação; destaque a formação técnica como diferencial prático e aplicável."
+            },
+            {
+                "section": "Formação Acadêmica",
+                "question": "Como valorizar projetos acadêmicos no currículo?",
+                "text": "Inclua TCC, iniciação científica ou projetos integradores que tenham relação com sua carreira, destacando habilidades técnicas e resultados obtidos."
+            },
+            {
+                "section": "Formação Acadêmica",
+                "question": "É importante incluir intercâmbios ou duplas titulações?",
+                "text": "Sim, isso mostra experiência internacional e adaptabilidade; informe a instituição estrangeira, período e foco do estudo."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como apresentar um projeto de análise de dados no currículo?",
+                "text": "Descreva o problema analisado, ferramentas utilizadas (ex: Python, pandas, Power BI), insights gerados e impacto da análise para o negócio ou decisão."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como descrever um projeto de machine learning?",
+                "text": "Informe o objetivo, tipo de modelo (classificação, regressão, etc.), métricas de avaliação, e se foi usado em produção ou em ambiente de teste."
+            },
+            {
+                "section": "Projetos",
+                "question": "Projetos com deep learning devem ser detalhados como?",
+                "text": "Mencione a arquitetura usada (CNN, LSTM, Transformer), o dataset, o propósito (ex: visão computacional) e os resultados alcançados com o modelo."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como destacar projetos com LLMs?",
+                "text": "Explique o uso do modelo (ex: geração de texto, chatbot), ferramentas aplicadas (ex: LangChain, OpenAI API), ajustes feitos (fine-tuning, prompts) e impacto."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como relatar um projeto com deploy em nuvem?",
+                "text": "Descreva o ambiente (AWS, GCP, Azure), arquitetura da solução, automações (CI/CD) e como o sistema foi escalado ou monitorado."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como incluir projetos com Docker e containers no currículo?",
+                "text": "Explique como containerizou aplicações, organizou ambientes com Docker Compose ou Kubernetes, e os benefícios obtidos (portabilidade, replicabilidade)."
+            },
+            {
+                "section": "Projetos",
+                "question": "Projetos de portfólio no GitHub devem ser detalhados?",
+                "text": "Sim, inclua o link, destaque a stack usada, os objetivos do projeto, estrutura de código e qualquer documentação ou testes implementados."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como descrever um projeto de ETL ou pipeline de dados?",
+                "text": "Cite as ferramentas utilizadas (ex: Airflow, Spark), o volume de dados processado, etapas do pipeline e como isso beneficiou o fluxo de dados."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como valorizar um projeto de NLP no currículo?",
+                "text": "Descreva a tarefa (ex: análise de sentimentos, extração de entidades), os dados utilizados, técnicas aplicadas (TF-IDF, embeddings, Transformers) e os resultados."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como apresentar um projeto colaborativo de tecnologia?",
+                "text": "Mostre sua função no time, stack utilizada, entregas sob sua responsabilidade e a integração com outras partes do projeto."
+            },
+            {
+                "section": "Projetos",
+                "question": "Projetos feitos em cursos valem a pena incluir?",
+                "text": "Sim, se forem técnicos e bem estruturados; destaque o escopo, tecnologias aplicadas e habilidades desenvolvidas, mesmo que em contexto acadêmico."
+            },
+            {
+                "section": "Projetos",
+                "question": "Como destacar um projeto com automação de processos?",
+                "text": "Explique o processo automatizado, as ferramentas utilizadas (ex: Python, Selenium, APIs), e os ganhos obtidos em tempo ou custo."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Como listar hard skills técnicas no currículo?",
+                "text": "Organize as habilidades por categoria (ex: Linguagens, Bibliotecas, Ferramentas) e foque em competências diretamente ligadas à sua área de atuação."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Quais linguagens de programação são mais valorizadas em ciência de dados?",
+                "text": "Python e SQL são fundamentais; R, Scala e Julia também têm espaço em contextos específicos, como estatística avançada ou big data."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Como demonstrar domínio em bibliotecas de machine learning?",
+                "text": "Liste bibliotecas como Scikit-learn, TensorFlow, PyTorch e XGBoost, e complemente com projetos em que você as utilizou de forma prática."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Ferramentas de visualização de dados contam como hard skill?",
+                "text": "Sim, ferramentas como Power BI, Tableau, matplotlib ou Seaborn são altamente valorizadas para comunicação de dados e geração de insights."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Como destacar habilidades em cloud computing?",
+                "text": "Inclua competências como AWS (S3, Lambda, SageMaker), GCP (BigQuery, Vertex AI) ou Azure (Machine Learning Studio), especialmente se usou em projetos reais."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Experiência com containers e orquestração é considerada uma hard skill?",
+                "text": "Sim, domínio de Docker, Docker Compose e Kubernetes é cada vez mais requisitado, principalmente para deployment e MLOps."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Quais hard skills são importantes para trabalhar com LLMs?",
+                "text": "Conhecimentos em embeddings, engenharia de prompts, uso de APIs como OpenAI ou Hugging Face, e ferramentas como LangChain ou vector databases (Pinecone, FAISS)."
+            },
+            {
+                "section": "Hard Skills",
+                "question": "Como demonstrar conhecimento em bancos de dados no currículo?",
+                "text": "Liste habilidades em bancos relacionais (PostgreSQL, MySQL) e não relacionais (MongoDB, Redis), além de experiência com consultas complexas ou modelagem de dados."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como descrever minha experiência com análise de dados?",
+                "text": "Apresente projetos em que analisou grandes volumes de dados, extraiu insights relevantes e impactou decisões de negócio, usando ferramentas como SQL, Python ou Power BI."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como relatar experiência em machine learning de forma eficaz?",
+                "text": "Descreva o problema resolvido, os dados utilizados, o tipo de modelo treinado e os resultados obtidos, incluindo métricas e se houve uso em produção."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como destacar experiência com deep learning em contextos reais?",
+                "text": "Mencione aplicações como visão computacional ou NLP, tipos de redes usadas (CNNs, RNNs, Transformers) e o impacto prático dos modelos."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como apresentar atuação com LLMs no ambiente de trabalho?",
+                "text": "Explique o uso de LLMs em tarefas como geração de texto, automação de processos ou construção de assistentes, além das ferramentas usadas como LangChain ou APIs da OpenAI."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como incluir experiência com deploy de modelos no currículo?",
+                "text": "Descreva como realizou o deploy (em nuvem, com Docker, via APIs), as ferramentas envolvidas e como garantiu performance e escalabilidade."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como relatar experiências com containers e orquestração?",
+                "text": "Fale sobre sua atuação com Docker, Kubernetes e CI/CD, explicando como esses recursos ajudaram na entrega contínua e no gerenciamento de ambientes."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como valorizar experiência multidisciplinar em times de tecnologia?",
+                "text": "Mostre como colaborou com engenheiros, analistas e produto, destacando sua participação em decisões técnicas e entregas conjuntas."
+            },
+            {
+                "section": "Experiência Profissional",
+                "question": "Como mostrar evolução de responsabilidades em cargos anteriores?",
+                "text": "Explique como passou de tarefas operacionais para funções estratégicas, liderou projetos ou orientou tecnicamente colegas ao longo da trajetória."
+            },
+            {
+                "section": "Formatação",
+                "question": "Qual é a melhor estrutura de um currículo?",
+                "text": "Comece com um resumo profissional no topo, seguido por suas experiências profissionais, formação acadêmica, habilidades e certificações. Utilize títulos claros e consistentes para facilitar a leitura."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como organizar as experiências profissionais de forma clara?",
+                "text": "Liste as experiências de forma cronológica, começando com a mais recente. Para cada cargo, mencione a empresa, cargo, período de trabalho e as principais responsabilidades e conquistas."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como destacar as habilidades técnicas no currículo?",
+                "text": "Crie uma seção separada para habilidades técnicas, utilizando uma lista bullet-point para incluir as ferramentas e tecnologias em que você tem experiência, como Python, AWS, TensorFlow, etc."
+            },
+            {
+                "section": "Formatação",
+                "question": "Qual a importância de usar fontes e tamanhos de texto consistentes?",
+                "text": "Use fontes legíveis como Arial ou Calibri e mantenha um tamanho de fonte entre 10 e 12 para o corpo do texto. Evite fontes decorativas que possam dificultar a leitura."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como tornar o currículo visualmente atraente?",
+                "text": "Utilize um layout limpo, com bastante espaço em branco e margens adequadas. Use cores sóbrias e evite excesso de elementos gráficos para garantir que o conteúdo seja o destaque principal."
+            },
+            {
+                "section": "Formatação",
+                "question": "Devo incluir links no meu currículo?",
+                "text": "Sim, inclua links para o seu LinkedIn, GitHub ou portfólio, especialmente se eles contiverem exemplos de seu trabalho ou contribuições relevantes para a vaga."
+            },
+            {
+                "section": "Formatação",
+                "question": "Qual o comprimento ideal para o currículo?",
+                "text": "O currículo idealmente deve ter uma página para profissionais com até 5 anos de experiência e até duas páginas para aqueles com mais experiência. Evite informações desnecessárias que possam diluir o conteúdo relevante."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como utilizar a formatação para destacar minhas realizações?",
+                "text": "Use negrito para destacar as informações mais importantes, como cargos ou conquistas significativas. Tente também usar bullet points para organizar informações e facilitar a leitura."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como evitar erros de formatação no currículo?",
+                "text": "Revise seu currículo cuidadosamente antes de enviar. Use ferramentas de verificação de ortografia e evite alterar o formato do documento entre edições, o que pode desorganizar a estrutura."
+            },
+            {
+                "section": "Formatação",
+                "question": "Como incluir um resumo profissional na formatação do currículo?",
+                "text": "O resumo profissional deve ser breve, contendo 3 a 4 linhas que destaquem suas principais habilidades, experiências e o que você busca em sua próxima oportunidade. Coloque-o no topo do currículo, logo após o título e as informações de contato."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Como adaptar meu currículo para diferentes vagas no LinkedIn?",
+                "text": "Personalize seu currículo para cada vaga, ajustando as palavras-chave para corresponder aos requisitos da descrição do cargo. Use termos exatos da vaga, como tecnologias e habilidades específicas que são mencionadas."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Qual a importância das palavras-chave no meu currículo no LinkedIn?",
+                "text": "As palavras-chave são essenciais para garantir que seu currículo seja encontrado por sistemas ATS (Applicant Tracking Systems) e recrutadores. Elas aumentam suas chances de ser selecionado ao alinhar seu currículo com a vaga desejada."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Como identificar as palavras-chave certas para incluir no meu currículo?",
+                "text": "Examine cuidadosamente as descrições das vagas para identificar habilidades, tecnologias e qualificações que se repetem com frequência. Essas palavras são as mais relevantes para adaptar seu currículo."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Devo usar as mesmas palavras-chave que aparecem na descrição do trabalho?",
+                "text": "Sim, é recomendável usar palavras-chave exatas da vaga, como nomes de ferramentas, tecnologias ou metodologias específicas. Isso ajuda seu currículo a se alinhar com o que o recrutador está procurando."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Como alterar a terminologia do meu currículo para um cargo diferente?",
+                "text": "Troque termos que podem não ser relevantes para a vaga. Por exemplo, em vez de 'desenvolvedor de software', use 'engenheiro de software' se a vaga for para esse cargo. Isso ajuda a garantir que seu currículo esteja alinhado com a terminologia usada pelo recrutador."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Como ajustar meu currículo para cargos de diferentes níveis de senioridade?",
+                "text": "Para cargos mais júnior, destaque seu aprendizado e habilidades adquiridas. Para cargos mais sêniores, foque em resultados estratégicos, liderança de equipes e sua experiência em tomada de decisão."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "O que fazer quando uma vaga exige habilidades que não tenho?",
+                "text": "Se você não possui uma habilidade específica, destaque habilidades semelhantes ou experiências que mostrem sua capacidade de aprender rapidamente. Considere também fazer cursos online para adquirir o conhecimento necessário."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Devo modificar meu currículo para empresas de diferentes setores?",
+                "text": "Sim, adapte seu currículo para cada setor, focando nas habilidades que são mais relevantes para o tipo de trabalho realizado naquele setor. Por exemplo, em empresas de tecnologia, destaque suas habilidades em programação e frameworks, enquanto em empresas de marketing, foque em análise de dados e campanhas digitais."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Como posso otimizar meu LinkedIn para ser encontrado mais facilmente pelos recrutadores?",
+                "text": "Inclua palavras-chave em seu título, resumo e nas descrições de suas experiências. Adapte seu LinkedIn para refletir as mesmas habilidades e competências que você usa em seu currículo para aumentar a visibilidade."
+            },
+            {
+                "section": "Adaptação de Currículo",
+                "question": "Qual é a diferença entre as palavras-chave para um currículo e para um perfil do LinkedIn?",
+                "text": "No LinkedIn, as palavras-chave devem ser mais voltadas para o que você é capaz de fazer e para o seu papel profissional. No currículo, as palavras-chave devem ser mais específicas, com foco nas tecnologias que você usa e nos resultados alcançados."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "É necessário incluir todas as experiências no currículo?",
+                "text": "Não. Inclua apenas experiências que sejam relevantes para a vaga. Experiências antigas ou que não se conectam à área de tecnologia podem ser omitidas ou resumidas."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Devo colocar todos os cursos que já fiz?",
+                "text": "Evite listar cursos básicos ou muito antigos que não agregam valor à sua candidatura. Prefira cursos recentes e relevantes para a vaga."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Colocar objetivo profissional ainda faz sentido?",
+                "text": "Na maioria dos casos, não é necessário. Prefira um resumo profissional bem escrito no lugar, focando em suas qualificações e no que você pode oferecer."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "É recomendado colocar informações pessoais como CPF ou RG?",
+                "text": "Não. Essas informações são desnecessárias e podem até ser um risco de privacidade. Mantenha apenas nome, e-mail, telefone e LinkedIn/GitHub."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Currículo com mais de duas páginas é ruim?",
+                "text": "Sim, geralmente. Recrutadores preferem currículos objetivos. Foque nas experiências mais recentes e relevantes para a vaga, mantendo o currículo com no máximo duas páginas."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Devo listar experiências de estágio não relacionadas à TI?",
+                "text": "Apenas se você estiver no início da carreira. Caso contrário, foque em experiências que tenham relação com a área ou demonstrem habilidades transferíveis."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "É preciso colocar referências no currículo?",
+                "text": "Não é necessário colocar nomes de referências. Se a empresa quiser, ela pedirá posteriormente. Use esse espaço para mostrar suas conquistas."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Devo colocar pretensão salarial no currículo?",
+                "text": "Evite colocar esse tipo de informação no currículo, a não ser que a vaga solicite expressamente. Deixe para discutir isso durante a entrevista."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Fotos no currículo são recomendadas?",
+                "text": "Na maioria dos casos, não. A foto não é relevante para avaliar suas competências e pode gerar vieses. Foque no conteúdo técnico e profissional."
+            },
+            {
+                "section": "Evite o Desnecessário",
+                "question": "Devo evitar jargões ou termos genéricos como 'trabalho bem em equipe'?",
+                "text": "Sim, a não ser que sejam contextualizados em projetos ou experiências reais. Prefira exemplos concretos e resultados mensuráveis."
+            }
+        ]
+    },
+    {
+        "category": "LinkeDIN",
+        "documents": [
+            {
+                "section": "Perfil Profissional",
+                "question": "Como tornar meu LinkedIn mais atrativo para recrutadores de tecnologia?",
+                "text": "Mantenha uma foto profissional, título claro com sua área de atuação (ex: 'Engenheiro de Machine Learning') e um resumo que destaque suas habilidades técnicas e projetos-chave."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "O que colocar no resumo do LinkedIn para áreas como dados ou IA?",
+                "text": "Escreva um parágrafo direto destacando seus principais conhecimentos (ex: Python, LLMs, deploy em cloud), anos de experiência e impacto dos projetos em que trabalhou."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Como destacar projetos de tecnologia no LinkedIn?",
+                "text": "Adicione projetos no campo apropriado ou como posts no feed, incluindo descrições claras, tecnologias usadas, links para GitHub e imagens se possível."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Devo compartilhar artigos ou posts sobre IA, dados e tecnologia?",
+                "text": "Sim, isso mostra interesse e engajamento com a área; compartilhe artigos relevantes, escreva sobre aprendizados técnicos ou experiências com ferramentas específicas."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Como otimizar o título do LinkedIn para aparecer nas buscas?",
+                "text": "Use palavras-chave comuns na sua área, como 'Data Scientist', 'ML Engineer', 'MLOps', ou 'Especialista em LLMs' para melhorar a visibilidade nas buscas dos recrutadores."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Certificações e cursos técnicos devem ser adicionados ao LinkedIn?",
+                "text": "Sim, inclua certificações como AWS, Google Cloud, Microsoft, ou cursos relevantes da área, com foco nas habilidades técnicas aprendidas."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Como apresentar experiência com ferramentas como Docker ou Kubernetes?",
+                "text": "Inclua essas ferramentas nas descrições de cargos e projetos, destacando como foram aplicadas em deploy, automação ou escalabilidade de soluções."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Ter um portfólio no GitHub ajuda no LinkedIn?",
+                "text": "Sim, inclua o link no seu perfil e nos projetos ou experiências; um repositório bem documentado reforça sua competência técnica."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Como usar recomendações no LinkedIn a favor do seu perfil?",
+                "text": "Peça recomendações de colegas, líderes ou parceiros de projeto, especialmente mencionando habilidades técnicas e entregas relevantes."
+            },
+            {
+                "section": "Perfil Profissional",
+                "question": "Vale a pena participar de grupos e eventos de tecnologia no LinkedIn?",
+                "text": "Sim, seguir empresas da área, influenciadores e interagir com conteúdo técnico aumenta sua visibilidade e networking."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Quais projetos são ideais para compartilhar no LinkedIn?",
+                "text": "Compartilhe projetos aplicados a problemas reais, com tecnologias relevantes e que demonstrem domínio prático — como dashboards, modelos em produção ou soluções com LLMs."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Como criar uma publicação envolvente sobre um projeto técnico?",
+                "text": "Conte uma história: problema, solução, ferramentas usadas, resultados alcançados e aprendizado obtido; use linguagem simples e objetiva."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Devo incluir links para GitHub em publicações de projeto?",
+                "text": "Sim, isso permite que os leitores validem seu código, estrutura e documentação — e demonstra transparência e domínio técnico."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Posso publicar partes de um projeto em série?",
+                "text": "Sim, dividir um projeto em etapas (ex: coleta de dados, modelagem, deploy) cria engajamento e mostra sua consistência ao longo do tempo."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Faz sentido publicar erros e aprendizados técnicos?",
+                "text": "Sim, conteúdos sobre falhas e como você as solucionou têm alto engajamento e transmitem autenticidade e crescimento profissional."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Como destacar impacto de um projeto em uma publicação?",
+                "text": "Mencione números, economia de tempo, ganhos de eficiência ou automações que o projeto proporcionou — mesmo que seja em ambiente pessoal ou acadêmico."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Vale a pena postar colaborações em projetos de código aberto?",
+                "text": "Sim, isso mostra habilidade técnica e trabalho em equipe; explique sua contribuição e o contexto do repositório ou organização envolvida."
+            },
+            {
+                "section": "Publicações no LinkedIn",
+                "question": "Quais elementos aumentam o alcance de uma publicação técnica?",
+                "text": "Use imagens, GIFs, vídeos curtos, hashtags relevantes (#MachineLearning, #Python, #LLMs, #TechProjects) e convites à interação (ex: 'O que você faria diferente?')."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Com quem devo me conectar no LinkedIn sendo da área de tecnologia?",
+                "text": "Busque conexões com profissionais da sua área, recrutadores de tecnologia, colegas de curso, líderes técnicos e pessoas envolvidas em projetos semelhantes aos seus."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Enviar convite para desconhecidos na área de TI é adequado?",
+                "text": "Sim, desde que acompanhe o convite com uma mensagem curta e relevante, mostrando interesse em aprender, trocar experiências ou acompanhar projetos da pessoa."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Como usar minhas conexões para encontrar oportunidades?",
+                "text": "Interaja com suas conexões, comente em posts da área, pergunte sobre processos seletivos ou peça indicações de forma educada e contextualizada."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Quantas conexões é o ideal para ter mais visibilidade?",
+                "text": "Não há número exato, mas acima de 500 conexões sua rede começa a gerar maior alcance; priorize qualidade, relevância e alinhamento com seu nicho técnico."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Como me tornar mais visível na rede de tecnologia?",
+                "text": "Comente, reaja e compartilhe conteúdos da área (ex: LLMs, MLOps, Cloud); isso aumenta sua exposição na rede e atrai conexões com interesses semelhantes."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "É útil manter conexões com colegas de projetos open source?",
+                "text": "Sim, além de ampliar sua rede técnica, essas conexões podem gerar novas colaborações e te recomendar futuramente para oportunidades relevantes."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Como abordar especialistas ou tech leads no LinkedIn?",
+                "text": "Envie uma mensagem personalizada mencionando um post, palestra ou projeto da pessoa; mostre interesse genuíno e evite pedidos diretos logo no primeiro contato."
+            },
+            {
+                "section": "Conexões no LinkedIn",
+                "question": "Participar de comunidades e eventos ajuda nas conexões?",
+                "text": "Sim, eventos técnicos e comunidades (como meetups, hackathons ou grupos de dados/ML) facilitam conexões mais qualificadas e engajadas no seu nicho."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Como filtrar vagas para minha área de atuação em tecnologia?",
+                "text": "Use palavras-chave específicas como 'Data Engineer', 'MLOps', 'LLM Developer' e aplique filtros por nível de experiência, localidade e tipo de vaga (remota, híbrida, presencial)."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Quais filtros ajudam a encontrar vagas remotas em tecnologia?",
+                "text": "Use o filtro 'Remoto' no campo de localização e combine com termos como 'Machine Learning', 'DevOps' ou 'Cloud Engineer' para oportunidades internacionais ou home office."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Como encontrar vagas que exigem inglês técnico?",
+                "text": "Procure por palavras-chave como 'English required', 'Fluent English', ou filtre por empresas multinacionais e leia a descrição da vaga para verificar o idioma usado."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Dá para filtrar vagas por tecnologias específicas como Docker ou PyTorch?",
+                "text": "Sim, inclua essas tecnologias no campo de busca e use filtros de data para ver apenas as vagas mais recentes com essas exigências técnicas."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Existe uma forma de filtrar vagas que permitem candidatura fácil?",
+                "text": "Sim, use o filtro 'Candidatura simplificada' para aplicar com seu perfil do LinkedIn sem redirecionamentos externos, útil para ganhar agilidade no processo."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Como destacar meu perfil ao me candidatar por vagas no LinkedIn?",
+                "text": "Atualize seu título e resumo com as palavras-chave da vaga, destaque projetos e certificações no perfil, e envie uma mensagem ao recrutador quando possível."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Devo ativar o recurso 'interesse em novas oportunidades'?",
+                "text": "Sim, isso sinaliza ao LinkedIn e aos recrutadores que você está aberto a novas propostas, aumentando suas chances de aparecer em buscas de talento."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Como saber se meu perfil está adequado para a vaga?",
+                "text": "Leia atentamente a descrição da vaga, compare com suas habilidades e experiências listadas no perfil, e veja o nível de compatibilidade sugerido pelo próprio LinkedIn."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Candidatar-se logo após a vaga ser postada faz diferença?",
+                "text": "Sim, aplicar-se nas primeiras horas aumenta suas chances de ser visto antes que a vaga receba muitas candidaturas e filtros mais rígidos sejam aplicados."
+            },
+            {
+                "section": "Vagas no LinkedIn",
+                "question": "Devo acompanhar vagas salvas mesmo após me candidatar?",
+                "text": "Sim, algumas empresas atualizam a descrição, reabrem vagas ou entram em contato depois de semanas; acompanhar mostra comprometimento com a vaga."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Por que analisar perfis de profissionais da área de tecnologia no LinkedIn?",
+                "text": "Analisar bons perfis ajuda a entender como outros estruturam seus resumos, destacam projetos e apresentam certificações — servindo de inspiração e benchmark."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "O que observar em perfis de destaque na área de dados e IA?",
+                "text": "Foque em como descrevem experiências, as palavras-chave usadas, os tipos de projetos apresentados, e o engajamento com publicações técnicas."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Como usar perfis de terceiros para melhorar meu próprio currículo?",
+                "text": "Veja como profissionais da sua área destacam ferramentas, métricas, resultados e como adaptam suas descrições para diferentes contextos (ex: startups ou consultorias)."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "É válido se basear em perfis técnicos para escrever o próprio resumo?",
+                "text": "Sim, mas use apenas como referência — o ideal é adaptar com autenticidade, utilizando estrutura similar, mas focando nas suas experiências e habilidades reais."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Como identificar se um perfil está atualizado e bem estruturado?",
+                "text": "Verifique se há publicações recentes, projetos destacados, cargos com descrições claras, além de certificações e interações na rede."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Quais perfis técnicos devo acompanhar no LinkedIn?",
+                "text": "Siga especialistas em áreas como MLOps, engenharia de dados, LLMs, open source, além de engenheiros que compartilham boas práticas e desafios técnicos."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Como usar perfis de recrutadores para entender oportunidades?",
+                "text": "Veja os tipos de vagas que eles publicam, palavras-chave que valorizam, e padrões de perfil dos candidatos que eles interagem — isso orienta como ajustar seu posicionamento."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Perfis com projetos no GitHub são mais relevantes?",
+                "text": "Sim, especialmente em áreas como ciência de dados, LLMs ou backend; observe como estruturam repositórios, documentam soluções e vinculam ao LinkedIn."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Como usar perfis internacionais como referência?",
+                "text": "Explore perfis de profissionais que atuam em empresas globais; eles costumam seguir padrões mais objetivos, com foco em resultados, tecnologia e impacto mensurável."
+            },
+            {
+                "section": "Análise de Perfis Profissionais",
+                "question": "Observar perfis técnicos pode ajudar em entrevistas?",
+                "text": "Sim, ver como outros descrevem projetos e experiências pode inspirar formas mais claras de contar sua trajetória e preparar respostas mais estratégicas."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Como usar comentários para aumentar visibilidade no LinkedIn?",
+                "text": "Comente em posts relevantes da sua área com opiniões técnicas, dúvidas inteligentes ou complementos; isso mostra autoridade e amplia seu alcance na rede."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Reagir a publicações técnicas pode gerar oportunidades?",
+                "text": "Sim, reações frequentes em conteúdo relevante mantêm você ativo no feed de outras pessoas, gerando curiosidade sobre seu perfil."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Devo interagir com postagens de recrutadores e empresas?",
+                "text": "Sim, comentar ou compartilhar posts de recrutadores, especialmente com insights ou perguntas construtivas, aumenta sua chance de ser notado."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Qual o impacto de publicar conteúdos próprios na área de TI?",
+                "text": "Publicações frequentes sobre aprendizados, projetos ou dicas técnicas posicionam você como alguém ativo, atualizado e com domínio prático na área."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Compartilhar conteúdos de terceiros é relevante?",
+                "text": "Sim, desde que você adicione um comentário próprio contextualizando o conteúdo — isso demonstra senso crítico e participação ativa."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Postar dúvidas técnicas pode ser visto como positivo?",
+                "text": "Sim, desde que seja bem formulada; dúvidas técnicas relevantes incentivam discussões e mostram que você está envolvido com o aprendizado contínuo."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Devo marcar pessoas ou empresas em minhas publicações?",
+                "text": "Sim, se for relevante — como mentores, colegas de projeto ou empresas de ferramentas utilizadas; isso aumenta o alcance e fortalece conexões."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Como posso manter consistência nas publicações?",
+                "text": "Defina temas principais (ex: um projeto por mês, uma dica por semana) e mantenha uma frequência leve mas constante, mesmo com postagens curtas."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "É útil comentar em posts de especialistas e influenciadores da área?",
+                "text": "Sim, bons comentários nesses posts atraem visualizações qualificadas e podem iniciar interações valiosas com profissionais do seu nicho."
+            },
+            {
+                "section": "Engajamento Estratégico no LinkedIn",
+                "question": "Publicar conquistas técnicas ajuda a fortalecer o currículo?",
+                "text": "Sim, conquistas como certificações, projetos finalizados ou contribuições em open source mostram evolução prática e geram reconhecimento público."
+            }
+        ]
+    },
+    {
+        "category": "Portfolio",
+        "documents": [
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Como tornar meu perfil do GitHub mais atrativo para recrutadores?",
+                "text": "Mantenha uma bio clara com tecnologias-chave, fixe projetos importantes e inclua links para seu portfólio ou LinkedIn."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Devo colocar uma foto no perfil do GitHub?",
+                "text": "Sim, uma foto profissional ajuda no reconhecimento e transmite seriedade."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "O que escrever na bio do GitHub?",
+                "text": "Use uma descrição curta sobre você, suas especializações e as linguagens ou áreas com que trabalha."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "É relevante fixar repositórios no perfil?",
+                "text": "Sim, fixe os projetos mais representativos e bem documentados, pois são os primeiros que recrutadores verão."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Como integrar meu GitHub com outras redes?",
+                "text": "Adicione links para LinkedIn, Twitter ou portfólio pessoal na bio e no README principal."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Devo traduzir minha bio para o inglês?",
+                "text": "Sim, especialmente se busca oportunidades internacionais ou contribui com projetos open source."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Ter seguidores no GitHub é importante?",
+                "text": "Mais que número, o valor está em seguir bons perfis e ser seguido por quem interage tecnicamente com você."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "O GitHub mostra o nível de atividade do usuário?",
+                "text": "Sim, o gráfico de contribuições mostra frequência de commits, pull requests e interações."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Como criar um README para meu perfil?",
+                "text": "Crie um repositório com o mesmo nome do seu usuário e edite o README.md com apresentação, links e badges."
+            },
+            {
+                "section": "Perfil Profissional no GitHub",
+                "question": "Ter um README pessoal realmente ajuda?",
+                "text": "Sim, é como um portfólio visual dentro do GitHub e ajuda a destacar seus diferenciais."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Como escolher quais projetos deixar públicos no GitHub?",
+                "text": "Deixe públicos projetos que demonstrem bem suas habilidades, boas práticas, organização e uso de tecnologias atuais."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "É importante categorizar meus repositórios?",
+                "text": "Sim, use nomes e descrições claras para facilitar a identificação dos tipos de projeto, como 'NLP', 'MLOps', 'Data Pipeline', etc."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Devo incluir projetos acadêmicos ou apenas profissionais?",
+                "text": "Inclua ambos, desde que estejam bem estruturados e representem seu domínio técnico."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Como deixar claro o objetivo de um projeto?",
+                "text": "Use o README.md para explicar o problema resolvido, os dados utilizados e o resultado esperado."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Preciso documentar cada repositório separadamente?",
+                "text": "Sim, cada repositório deve conter um README com propósito, instruções de uso e dependências."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Repositórios pequenos também têm valor?",
+                "text": "Sim, desde que mostrem um conceito técnico importante, como uso de APIs, testes ou integração com serviços."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Como destacar projetos em equipe?",
+                "text": "Explique sua contribuição específica no README e, se possível, cite os demais colaboradores no repositório."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Devo manter projetos antigos no perfil?",
+                "text": "Mantenha apenas se ainda forem tecnicamente relevantes ou se mostrar evolução nas práticas de desenvolvimento."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Qual é a importância de um histórico de commits limpo?",
+                "text": "Commits bem escritos e frequentes demonstram organização, profissionalismo e domínio do versionamento."
+            },
+            {
+                "section": "Projetos e Repositórios",
+                "question": "Como destacar tecnologias usadas em um projeto?",
+                "text": "Liste as principais ferramentas e linguagens no README e use tags e tópicos no GitHub."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Qual a estrutura ideal de um README.md para projetos técnicos?",
+                "text": "Inclua título, descrição, tecnologias usadas, instruções de instalação, exemplos de uso, estrutura do projeto, e licença."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Devo escrever o README em português ou inglês?",
+                "text": "Prefira inglês para alcançar uma audiência global, principalmente se o projeto for open source ou técnico."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Como tornar o README visualmente mais atrativo?",
+                "text": "Use Markdown com títulos, listas, imagens, badges e tabelas para facilitar a leitura e organização visual."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Devo colocar capturas de tela ou GIFs no README?",
+                "text": "Sim, imagens e GIFs demonstram melhor o funcionamento do projeto e aumentam o engajamento visual."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Como facilitar a instalação do projeto no README?",
+                "text": "Inclua instruções passo a passo, comandos de terminal, arquivos como `requirements.txt` ou `Dockerfile`, e exemplos de execução."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "README precisa explicar o problema resolvido?",
+                "text": "Sim, contextualize o projeto com o problema abordado, para que outros entendam sua aplicação prática."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Posso colocar links externos no README?",
+                "text": "Sim, adicione links para artigos, vídeos, datasets, APIs utilizadas ou documentação complementar."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "É útil adicionar uma seção de FAQ?",
+                "text": "Sim, uma seção de perguntas frequentes pode reduzir dúvidas comuns e ajudar quem for usar ou contribuir com o projeto."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Como indicar que aceito contribuições no projeto?",
+                "text": "Adicione uma seção 'Contribuições' com instruções claras sobre como abrir issues e pull requests."
+            },
+            {
+                "section": "README.md Eficiente",
+                "question": "Qual o papel de uma boa licença no README?",
+                "text": "Definir uma licença como MIT ou Apache 2.0 garante que outros saibam como podem usar e modificar seu código legalmente."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Por que escrever mensagens de commit claras é importante?",
+                "text": "Mensagens claras facilitam o entendimento das mudanças por outros desenvolvedores e demonstram organização técnica."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Como escrever uma boa mensagem de commit?",
+                "text": "Use frases curtas e objetivas no imperativo, como 'Add data cleaning script' ou 'Fix bug in prediction logic'."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "É ruim ter muitos commits pequenos?",
+                "text": "Não, commits frequentes ajudam a rastrear alterações, desde que cada um represente uma mudança lógica e isolada."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Devo fazer commit sempre que finalizar uma tarefa?",
+                "text": "Sim, isso mantém o histórico organizado e facilita identificar onde algo pode ter quebrado."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Commits devem ser em português ou inglês?",
+                "text": "Prefira inglês, especialmente se o repositório for público ou compartilhado com profissionais internacionais."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Posso apagar commits antigos?",
+                "text": "Evite reescrever o histórico em repositórios colaborativos; isso pode causar conflitos e dificultar o controle de versão."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "O que são commits semânticos?",
+                "text": "São mensagens padronizadas com prefixos como 'feat', 'fix', 'docs', 'refactor', que ajudam a identificar o tipo da mudança."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Como visualizar o histórico completo de um projeto?",
+                "text": "Use o comando `git log` ou acesse a aba 'Commits' no GitHub para navegar pelas alterações feitas."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "É importante assinar digitalmente meus commits?",
+                "text": "Sim, em ambientes mais exigentes, isso garante autoria e integridade das mudanças feitas no repositório."
+            },
+            {
+                "section": "Commits e Histórico",
+                "question": "Histórico limpo é um diferencial em entrevistas técnicas?",
+                "text": "Sim, mostra atenção ao controle de versão, documentação e colaboração eficiente no código."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "O que é um pull request e por que ele é importante?",
+                "text": "É uma solicitação para integrar alterações feitas em um branch ao projeto principal, permitindo revisão e colaboração estruturada."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Como escrever uma boa descrição de pull request?",
+                "text": "Explique o que foi alterado, por quê, e como testar; use checklists se necessário para facilitar a revisão."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Qual a etiqueta ideal para nomear um branch colaborativo?",
+                "text": "Use nomes descritivos como `feature/login-api` ou `fix/model-accuracy` para identificar o objetivo da ramificação."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Preciso abrir uma issue antes de um pull request?",
+                "text": "Não é obrigatório, mas ajuda a documentar o problema ou necessidade e facilita a rastreabilidade."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Como responder a feedbacks em pull requests?",
+                "text": "Seja receptivo, explique suas decisões e implemente mudanças quando apropriado; isso mostra maturidade e espírito de equipe."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Devo revisar código de outras pessoas em projetos colaborativos?",
+                "text": "Sim, revisões ajudam a manter a qualidade do código, aprendizados mútuos e coesão no time."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "É errado fazer merge sem revisão?",
+                "text": "Evite merges diretos, pois o pull request permite revisão, testes e evita a introdução de erros não percebidos."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Como contribuir com projetos open source via pull request?",
+                "text": "Escolha uma issue marcada como 'good first issue', siga as instruções do CONTRIBUTING.md e abra um pull request explicando sua solução."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "O que são conflitos de merge e como evitá-los?",
+                "text": "São inconsistências entre versões do código; para evitá-los, atualize frequentemente seu branch com a base e resolva conflitos localmente."
+            },
+            {
+                "section": "Colaboração e Pull Requests",
+                "question": "Devo usar comentários no próprio PR?",
+                "text": "Sim, use comentários para explicar trechos complexos ou justificar decisões técnicas diretamente no diff do código."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Por que contribuir com projetos open source ajuda no currículo?",
+                "text": "Mostra proatividade, colaboração com comunidades técnicas e experiência com projetos reais e práticas profissionais."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Como encontrar projetos open source para contribuir?",
+                "text": "Busque no GitHub por issues marcadas como 'good first issue', 'help wanted', ou em sites como Up For Grabs e CodeTriage."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Devo atualizar meu perfil com as contribuições feitas?",
+                "text": "Sim, inclua os projetos nos 'pinned repositories' e destaque suas contribuições específicas no README pessoal ou LinkedIn."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Preciso ser fluente em inglês para contribuir?",
+                "text": "É importante entender e escrever o básico, pois a maioria dos projetos open source usa inglês na documentação e nos comentários."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Contribuir apenas com código vale a pena?",
+                "text": "Sim, mas você também pode ajudar com documentação, testes, tradução, organização de issues e revisão de PRs."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Como mostrar impacto nas contribuições?",
+                "text": "Destaque números de issues resolvidas, funcionalidades implementadas ou melhorias que você trouxe no repositório."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Contribuir com grandes projetos vale mais que projetos pequenos?",
+                "text": "Contribuições consistentes, mesmo em projetos pequenos, demonstram iniciativa e capacidade de trabalhar com padrões colaborativos."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Como evitar erros ao contribuir com um projeto novo?",
+                "text": "Leia a documentação, regras de contribuição (CONTRIBUTING.md), e comunique-se com os mantenedores antes de propor mudanças grandes."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Posso usar projetos open source em meu portfólio?",
+                "text": "Sim, desde que você tenha contribuído de forma relevante, cite o repositório e explique sua contribuição em detalhes."
+            },
+            {
+                "section": "Contribuições Open Source",
+                "question": "Contribuir com open source ajuda na empregabilidade?",
+                "text": "Sim, empresas valorizam profissionais com experiência prática, capacidade de trabalho em equipe e familiaridade com Git e GitHub."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Como estruturar pastas em um projeto de dados?",
+                "text": "Use uma estrutura padrão com pastas como `data/`, `notebooks/`, `scripts/`, `models/` e `docs/` para facilitar a navegação."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "O que é um bom padrão de nomenclatura para arquivos?",
+                "text": "Seja descritivo e consistente, por exemplo: `data_cleaning.py`, `train_model.ipynb` ou `eda_sales_data.ipynb`."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Devo separar código por módulos?",
+                "text": "Sim, modularizar o código melhora a manutenção, a reutilização e a leitura por outros desenvolvedores."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Arquivos grandes devem ser versionados?",
+                "text": "Evite versionar arquivos grandes diretamente; use o Git LFS ou forneça links para download externo no README."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Como destacar a arquitetura do projeto?",
+                "text": "Inclua uma seção no README com diagrama ou descrição da arquitetura, mencionando fluxos, dependências e camadas de código."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Como organizar projetos de machine learning?",
+                "text": "Separe pastas para dados, notebooks de experimentos, scripts de pré-processamento, treinamento e modelos salvos."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "É bom ter um arquivo de dependências?",
+                "text": "Sim, use arquivos como `requirements.txt`, `Pipfile` ou `environment.yml` para facilitar a reprodução do ambiente."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Projetos em Jupyter precisam de estrutura?",
+                "text": "Sim, mesmo com notebooks, mantenha scripts auxiliares organizados e evite notebooks excessivamente longos ou confusos."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "Como manter um projeto limpo com Git?",
+                "text": "Use o `.gitignore` para evitar versionar arquivos desnecessários, como logs, dados sensíveis e diretórios temporários."
+            },
+            {
+                "section": "Organização e Estrutura",
+                "question": "README e estrutura devem estar alinhados?",
+                "text": "Sim, o README deve refletir e explicar a estrutura do projeto, indicando onde encontrar scripts, dados e modelos."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "O que é o GitHub Actions e como ele ajuda no projeto?",
+                "text": "É uma ferramenta de automação que permite rodar workflows como testes, builds e deploys automaticamente no repositório."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Como configurar uma pipeline de testes com GitHub Actions?",
+                "text": "Crie um arquivo YAML em `.github/workflows/`, defina o gatilho (push/pull request) e os passos para rodar os testes com `pytest`, por exemplo."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Posso automatizar o deploy de modelos com GitHub Actions?",
+                "text": "Sim, você pode configurar workflows para enviar o modelo para a nuvem (Heroku, AWS, etc.) sempre que houver atualização no branch principal."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Como integrar GitHub Actions com Docker?",
+                "text": "Use workflows que constroem e publicam imagens Docker automaticamente, com ações como `docker/build-push-action`."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "GitHub Actions suporta ambientes virtuais?",
+                "text": "Sim, é possível configurar ambientes com Python, Node.js, Java, entre outros, e instalar dependências automaticamente."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Posso automatizar verificação de código (lint)?",
+                "text": "Sim, use GitHub Actions para rodar ferramentas como `flake8`, `black`, `eslint`, garantindo padrão de código."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Como evitar que o pipeline rode desnecessariamente?",
+                "text": "Configure condições no YAML usando `if` ou limite o gatilho a diretórios ou branches específicos."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "É possível rodar testes unitários em cada pull request?",
+                "text": "Sim, configure um workflow com `on: pull_request` para garantir que todos os testes sejam validados antes do merge."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "Como notificar o time sobre falhas no workflow?",
+                "text": "Use integrações com Slack, Discord ou e-mail para alertas automáticos em caso de erro nos pipelines."
+            },
+            {
+                "section": "GitHub Actions e Automatizações",
+                "question": "GitHub Actions é gratuito?",
+                "text": "Para repositórios públicos, sim; para privados há limites mensais dependendo do plano da conta."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como proteger informações sensíveis no GitHub?",
+                "text": "Use o arquivo `.gitignore` para evitar o versionamento de dados sensíveis como chaves API, credenciais e arquivos de configuração."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "O que é o GitHub Secret Manager e como usá-lo?",
+                "text": "O Secret Manager permite armazenar variáveis de ambiente e credenciais de maneira segura, acessíveis somente durante a execução de workflows."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como garantir que o código do repositório seja seguro?",
+                "text": "Realize auditorias regulares de segurança, use dependências seguras, e configure scanners de segurança automáticos em seus workflows."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como configurar controle de acesso adequado no repositório?",
+                "text": "Use as permissões de equipe do GitHub para controlar quem pode acessar, editar ou fazer merge de pull requests nos repositórios."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como lidar com dependências vulneráveis?",
+                "text": "Ative o GitHub Dependabot para monitorar automaticamente vulnerabilidades em bibliotecas e enviar alertas para atualizações de segurança."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como configurar um arquivo `.gitignore` corretamente?",
+                "text": "Inclua arquivos gerados automaticamente, como logs, caches e dependências externas, para evitar versionamento desnecessário e informações sensíveis."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como usar branches para maior segurança?",
+                "text": "Utilize branches de feature ou bugfix para trabalhar em mudanças, evitando a modificação direta do branch principal, e exija revisões de código via pull requests."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Devo usar autenticação multifatorial no GitHub?",
+                "text": "Sim, habilitar a autenticação multifatorial aumenta a segurança da sua conta, protegendo-a contra acessos não autorizados."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "Como evitar o vazamento de dados em pull requests?",
+                "text": "Revise cuidadosamente as mudanças antes de fazer um pull request, especialmente se os dados contiverem informações privadas ou confidenciais."
+            },
+            {
+                "section": "Segurança e Boas Práticas no GitHub",
+                "question": "O que são as verificações de segurança automatizadas?",
+                "text": "São ferramentas que analisam o código para identificar vulnerabilidades comuns e gerar alertas, garantindo que o código seja seguro antes do deploy."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "O que é Integração Contínua (CI) e como ela funciona no GitHub?",
+                "text": "CI é o processo de integrar e testar código automaticamente em um repositório, garantindo que novas mudanças não quebrem funcionalidades existentes."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como configurar o GitHub Actions para CI?",
+                "text": "Crie um arquivo YAML em `.github/workflows/`, defina o gatilho (como `push` ou `pull_request`) e adicione etapas para compilar e testar o código."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Qual é a diferença entre Integração Contínua (CI) e Deploy Contínuo (CD)?",
+                "text": "CI foca em testar o código e garantir sua integração no repositório, enquanto CD foca em automatizar o processo de deploy para produção."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como integrar GitHub com ferramentas externas de CI/CD como Jenkins ou Travis CI?",
+                "text": "Você pode configurar webhooks no GitHub para disparar builds automáticos em Jenkins, Travis ou outras ferramentas, quando houver alterações no repositório."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como configurar o deploy contínuo de uma aplicação no GitHub?",
+                "text": "Crie um workflow no GitHub Actions que faça o deploy automático para ambientes como AWS, Azure ou Google Cloud após a conclusão dos testes."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como automatizar o deploy de um modelo de machine learning com GitHub?",
+                "text": "Após treinar o modelo, crie um workflow que envie o modelo treinado para um ambiente de produção, utilizando ferramentas como Docker e Kubernetes."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Posso realizar deploy em múltiplos ambientes com GitHub Actions?",
+                "text": "Sim, você pode configurar diferentes workflows para deploys em ambientes de desenvolvimento, staging e produção, dependendo de branches ou tags."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como garantir que o deploy não afete usuários em produção?",
+                "text": "Use técnicas como deploys canary ou blue-green, que permitem testar a nova versão com uma parte dos usuários antes de liberar totalmente."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "Como integrar testes automatizados no meu pipeline de deploy?",
+                "text": "Adicione etapas de testes (unitários, integração ou end-to-end) no seu workflow de CI/CD para garantir que o código esteja funcional antes do deploy."
+            },
+            {
+                "section": "Integração e Deploy Contínuo",
+                "question": "GitHub Actions suporta deploy em containers Docker?",
+                "text": "Sim, você pode criar uma imagem Docker no GitHub Actions e fazer o deploy dela para plataformas como Docker Hub, AWS ECS ou GCP GKE."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como medir a performance de um modelo de machine learning?",
+                "text": "Utilize métricas como acurácia, precisão, recall, F1-Score, AUC-ROC, e erro médio absoluto (MAE), dependendo do tipo de problema."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como monitorar a performance de uma aplicação em produção?",
+                "text": "Use ferramentas de monitoramento como Prometheus, Grafana, ou New Relic para coletar métricas de uso, latência e erros em tempo real."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Posso integrar métricas diretamente no GitHub?",
+                "text": "Sim, você pode integrar métricas de builds, testes e deploys no GitHub Actions e exibir relatórios diretamente no seu repositório."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como fazer uma análise de logs para performance?",
+                "text": "Utilize ferramentas como ELK Stack (Elasticsearch, Logstash, Kibana) ou AWS CloudWatch para armazenar e analisar logs de performance."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como medir a performance de um pipeline de CI/CD?",
+                "text": "Acompanhe métricas como tempo de execução de testes, falhas em etapas do pipeline, e tempo de build para identificar gargalos."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como definir metas de performance para um projeto?",
+                "text": "Estabeleça KPIs claros como tempo de resposta, taxa de sucesso, e disponibilidade para monitorar o desempenho de suas aplicações."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Quais são as métricas mais importantes em projetos de Deep Learning?",
+                "text": "Além das métricas convencionais, como perda (loss), também é importante monitorar o tempo de treinamento e a eficiência computacional."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como otimizar o desempenho de uma aplicação em produção?",
+                "text": "Implemente caching, balanceamento de carga, compressão de dados e escalabilidade automática para melhorar a performance em produção."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como utilizar métricas de performance para melhorar o código?",
+                "text": "Monitore o tempo de execução das funções, use perfis de código e identifique trechos ineficientes para otimizar seu código."
+            },
+            {
+                "section": "Análise de Performance e Métricas",
+                "question": "Como a análise de métricas ajuda na melhoria contínua do projeto?",
+                "text": "Ao analisar as métricas, você pode identificar áreas de melhoria no desempenho, na qualidade do código e na experiência do usuário."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como criar uma documentação clara e eficaz no GitHub?",
+                "text": "Utilize o arquivo `README.md` para descrever o projeto, instalação, dependências, uso básico e exemplos, facilitando a compreensão de novos colaboradores."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "O que deve conter em um `README.md` bem estruturado?",
+                "text": "Inclua uma introdução, instruções de instalação, requisitos, como executar o projeto, exemplos de uso, e informações de contribuição."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como documentar um projeto de machine learning no GitHub?",
+                "text": "Inclua detalhes sobre a fonte de dados, o processo de pré-processamento, os modelos utilizados, as métricas de avaliação e o processo de deployment."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como usar o GitHub Wiki para complementar a documentação?",
+                "text": "O GitHub Wiki é ideal para criar documentações mais extensas e detalhadas, como guias de usuário, tutoriais ou informações técnicas mais profundas."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Quais boas práticas seguir para garantir a consistência da documentação?",
+                "text": "Estabeleça uma estrutura clara, use uma linguagem simples e objetiva, e revise a documentação regularmente para mantê-la atualizada."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como documentar APIs no GitHub?",
+                "text": "Use ferramentas como Swagger ou Postman para gerar documentação interativa das APIs e inclua exemplos de requisições e respostas no `README.md`."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Quais práticas de versionamento de código são recomendadas?",
+                "text": "Use commits pequenos e frequentes, escreva mensagens de commit claras e detalhadas, e crie tags de versão sempre que lançar novas funcionalidades ou correções."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como organizar a estrutura de diretórios de um repositório?",
+                "text": "Crie uma estrutura lógica com diretórios como `src/` para código, `docs/` para documentação, `tests/` para testes e `scripts/` para scripts auxiliares."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "O que são boas práticas de revisão de código no GitHub?",
+                "text": "Realize pull requests frequentes, peça revisões a outros membros da equipe, e siga convenções de estilo de código para garantir qualidade e consistência."
+            },
+            {
+                "section": "Documentação e Melhores Práticas no GitHub",
+                "question": "Como documentar testes no GitHub?",
+                "text": "Descreva os testes no arquivo de documentação e adicione exemplos de como rodá-los, além de garantir que a cobertura de testes seja informada no CI/CD."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como contribuir para um projeto open source no GitHub?",
+                "text": "Fork o repositório, crie uma branch, faça suas alterações, envie um pull request e siga as instruções do projeto para enviar sua contribuição."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como escolher um projeto open source para contribuir?",
+                "text": "Escolha projetos que se alinhem com suas habilidades e interesses, e procure problemas no tracker de issues marcados como 'good first issue'."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como criar uma contribuição significativa em projetos open source?",
+                "text": "Foque em resolver issues abertas ou melhorar a documentação. Contribuições de qualidade, como a resolução de bugs ou adição de funcionalidades, são muito valorizadas."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como fazer um bom pull request (PR)?",
+                "text": "Faça PRs pequenos e bem definidos, escreva uma descrição clara do que foi alterado e forneça contexto para facilitar a revisão do código."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como se envolver com a comunidade de um projeto open source?",
+                "text": "Participe de discussões em issues e pull requests, siga as orientações da comunidade no `CONTRIBUTING.md` e esteja aberto ao feedback construtivo."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como garantir que minhas contribuições estejam alinhadas com as práticas do projeto?",
+                "text": "Revise o código do projeto, siga o estilo de codificação e contribua de acordo com as diretrizes definidas no repositório, como convenções de nomenclatura e estrutura de diretórios."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como fazer um fork de um repositório e mantê-lo atualizado?",
+                "text": "Faça um fork do repositório, crie uma branch para suas alterações, e periodicamente sincronize seu fork com o repositório original para manter as atualizações."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como escrever uma boa documentação para um projeto open source?",
+                "text": "Garanta que a documentação seja clara, concisa e atualizada, explicando como usar, contribuir e instalar o projeto. Inclua exemplos práticos e links para mais detalhes."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como responder a issues de um repositório open source?",
+                "text": "Se você encontrar um bug ou tiver dúvidas, abra uma issue de forma clara e objetiva, fornecendo informações suficientes para que os mantenedores possam reproduzir o problema."
+            },
+            {
+                "section": "Colaboração e Contribuição em Projetos Open Source",
+                "question": "Como garantir que minhas contribuições sejam aceitas?",
+                "text": "Faça commits pequenos e bem descritos, siga as guidelines do projeto, e se possível, proponha melhorias com base em discussões anteriores ou feedbacks."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como realizar uma revisão de código eficiente no GitHub?",
+                "text": "Revise o código de forma detalhada, verifique a clareza do código, a aderência ao estilo e se as mudanças estão bem justificadas e documentadas nos commits."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Quais são as melhores práticas ao escrever mensagens de commit?",
+                "text": "As mensagens devem ser claras, curtas e descritivas. Comece com um verbo no imperativo e explique o motivo da mudança, não apenas o que foi alterado."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como lidar com comentários durante a revisão de código?",
+                "text": "Seja receptivo a feedbacks e discuta de forma construtiva. Se necessário, justifique suas escolhas, mas esteja aberto para ajustar o código de acordo com as recomendações."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Quais são os erros mais comuns ao revisar código?",
+                "text": "Evite revisar rapidamente sem entender o contexto, ignore testes e verifique se há documentação atualizada. Também evite negligenciar testes de edge cases."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como garantir que o código está bem documentado durante a revisão?",
+                "text": "Verifique se as funções e métodos estão bem explicados com comentários concisos. Além disso, revise o `README.md` e a documentação do código para garantir que está atualizada."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Qual a importância dos testes de unidade durante a revisão de código?",
+                "text": "Os testes de unidade ajudam a garantir que o código funcione corretamente. Verifique se os testes estão bem escritos, cobrindo todos os cenários possíveis."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como lidar com mudanças grandes em um pull request?",
+                "text": "Divida mudanças grandes em PRs menores, facilitando a revisão. Se for impossível dividir, forneça um contexto detalhado sobre cada alteração e seus impactos no sistema."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como garantir que o código seja escalável durante a revisão?",
+                "text": "Analise se a solução proposta pode ser expandida facilmente no futuro. Verifique se o código é modular, reutilizável e se atende aos requisitos de desempenho."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Qual a importância de revisar o código de maneira colaborativa?",
+                "text": "A revisão colaborativa ajuda a identificar problemas de design, melhorar a qualidade do código e a compartilhar conhecimento entre os membros da equipe."
+            },
+            {
+                "section": "Revisão de Código e Boas Práticas",
+                "question": "Como garantir que o código não introduza vulnerabilidades de segurança?",
+                "text": "Verifique se o código segue boas práticas de segurança, como validação de entradas, criptografia de dados sensíveis e proteção contra ataques comuns, como SQL injection."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como garantir a cobertura de testes no GitHub?",
+                "text": "Utilize ferramentas como Codecov ou Coveralls para monitorar a cobertura de testes e garantir que uma parte significativa do código seja testada."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como escrever bons testes unitários?",
+                "text": "Crie testes pequenos e focados, verifique todos os fluxos possíveis (inclusive os de erro), e mantenha os testes independentes e reutilizáveis."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Qual é a importância dos testes de integração?",
+                "text": "Testes de integração são essenciais para garantir que diferentes partes do sistema funcionem bem juntas. Verifique se os fluxos entre os componentes estão corretos."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como configurar uma pipeline de CI/CD no GitHub?",
+                "text": "Utilize o GitHub Actions para configurar uma pipeline de integração e entrega contínua, que execute testes automaticamente a cada commit ou pull request."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como garantir que o código esteja livre de erros comuns durante a revisão?",
+                "text": "Use ferramentas de linting como ESLint ou Pylint para garantir que o código siga boas práticas de formatação e esteja livre de erros simples."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como garantir que o código seja de alta qualidade?",
+                "text": "Implemente boas práticas como SOLID, DRY (Don't Repeat Yourself) e KISS (Keep It Simple, Stupid), além de garantir uma cobertura de testes abrangente."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como realizar testes de desempenho no GitHub?",
+                "text": "Use ferramentas como Apache JMeter ou Locust para realizar testes de carga e estresse no seu projeto e verifique a escalabilidade e a performance do sistema."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como testar uma API no GitHub?",
+                "text": "Utilize ferramentas como Postman ou Insomnia para criar testes automatizados de APIs, verificando se todas as rotas e métodos funcionam conforme o esperado."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como configurar testes automatizados para pull requests?",
+                "text": "Use o GitHub Actions para configurar um workflow que execute testes automaticamente sempre que um pull request for aberto ou atualizado."
+            },
+            {
+                "section": "Testes e Qualidade de Código",
+                "question": "Como usar testes de regressão para garantir que o código não quebre funcionalidades existentes?",
+                "text": "Implemente testes de regressão para garantir que novas alterações não introduzam bugs em funcionalidades já existentes, cobrindo as partes mais críticas do sistema."
+            }
+        ]
+    }
+]
