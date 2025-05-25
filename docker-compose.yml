@@ -1,0 +1,24 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.backend
+    volumes:
+      - ./uploads:/app/uploads
+      - ./backend/faiss_index:/app/faiss_index
+    environment:
+      - MISTRAL_API_KEY=${MISTRAL_API_KEY}
+      - HUGGINGFACEHUB_API_TOKEN=${HUG_API_TOKEN}
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    depends_on:
+      - backend
+    ports:
+      - "8501:8501"
+    environment:
+      - API_URL=http://backend:8000
