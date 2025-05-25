@@ -2,3 +2,9 @@ fastapi
 uvicorn
 elasticsearch
 requests
+gradio
+langchain
+sentence-transformers
+streamlit
+dvc
+openai
