@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+huggingface_hub
+sentence-transformers
+pymupdf
+python-docx
+langchain-community
+langchain-huggingface
